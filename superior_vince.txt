@@ -1,0 +1,48 @@
+What's new: (09 September 2022)
+
+* Adjust the statusbar paddings
+* Adjust window corners radius
+* Disable haptic feedback by default.
+* Disable UI touch sounds by default.
+* Adjust charging thresholds values for higher temp
+* Add surfaceflinger property to start gralloc service.
+* Allow surface flinger to start gralloc service
+* Switch to AVC 3.1 for screen recording
+* Disable Post Render cleanup
+* Import datastatusnotification from coral
+* Enable Android S connectivity simplification behavior
+* Update ueventd.rc from LA.UM.10.6.2.r1-02500-89xx.0
+* Deduplicate mic snd device with multiple acdb ids
+* Bump min gpu freq for expensive rendering
+* Added App lock
+* Improved stereo sound recording volume
+* Set the app transition animation duration scale to 0.8
+* Long press to copy wifi password
+* Add CPU Info overlay (dev settings)
+* Allow to quickly open Running Services from QS panel
+* Add Idle Manager for killing Background process
+* Add lockscreen quick unlock option
+* Add FPS Info overlay 
+* Add VPN QS Tile
+* Integrate Google Lens into Screenshot UI
+* Add reboot/recovery QS tile
+* Add an option for disabling IME button space
+* Allow to hide arrow for back gesture
+* Add option for adjusting height of back gesture
+* Add an option to adjust QS Transparency level
+* Ignore timeout when taking partial screenshots
+* Add an option to hide power menu on secure lockscreen
+* Require unlocking to use Reboot tile
+* Allow adjusting screen density to smaller sizes
+* Set smallest width to 411dp
+* Aosp wfd by default
+* Fix screen recording issues
+* Disable SDM Scalar
+* Update GPS config for S
+* Update media profiles and drop lpcm from media profiles
+* Update fqnames for Data factory HAL.
+* stagefright: Add missing media_codecs_google_video_le.xml
+* Set max/min fling velocity sysproperties
+* Build sound_trigger from source.
+* Kernel Linux version 4.9.327
+* Various other under the hood optimisation and fixes
